@@ -1,0 +1,1 @@
+This is missjantastic's first Git project! I'm learning to understand and use Git and Github! Exciting :) 
